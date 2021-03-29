@@ -1,0 +1,314 @@
+{
+    "data": {
+      "deals": [
+        {
+          "id": 3109,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "The company was sued by the INCODER (Land institution of Colombia) for accumulating former state land, which is not allowed under Colombian legislation. The company was supposed to openly buy a plot after smallholders apply for land allocations. It is known that there is presence of armed groups in the project's area of influence. They are threatening the workers of the company.\r\n\r\nThere is a high degree of informality regarding the land rights. Mapiripán suffered one of the worst massacres in Colombia history, which caused thousands of civilians to leave the area. Poligrow purchased one plot which was left abandoned and for that a municipal committee should approve the acquisition. It seems that there was corruption in this case. There have been conflicts with indigenous groups, which argue that ancestral sites are located in the area of the company. That means that they cannot go there anymore and hunting and gathering for their survival is now prohibited. The company was also extracting water illegally; and finally, there was never a previous consultation with the communities close to the project.\r\n\r\nSource 17\r\nSource 18\r\nSource 7\r\n\r\nSource 10",
+          "prai_applied": "NO",
+          "prai_applied_comment": "The company was sued by the INCODER (Land institution of Colombia) for accumulating former state land, which is not allowed under Colombian legislation. The company was supposed to openly buy a plot after smallholders apply for land allocations. It is known that there is presence of armed groups in the project's area of influence. They are threatening the workers of the company.\r\n\r\nThere is a high degree of informality regarding the land rights. Mapiripán suffered one of the worst massacres in Colombia history, which caused thousands of civilians to leave the area. Poligrow purchased one plot which was left abandoned and for that a municipal committee should approve the acquisition. It seems that there was corruption in this case. There have been conflicts with indigenous groups, which argue that ancestral sites are located in the area of the company. That means that they cannot go there anymore and hunting and gathering for their survival is now prohibited. The company was also extracting water illegally; and finally, there was never a previous consultation with the communities close to the project.\r\n\r\nSource 17\r\nSource 18\r\nSource 7"
+        },
+        {
+          "id": 802,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "There is presence of land conflicts in the area and no clear land rights",
+          "prai_applied": "NO",
+          "prai_applied_comment": "There is presence of land conflicts in the area and no clear land rights"
+        },
+        {
+          "id": 803,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "Apart 25.2 is not fulfilled: respecting the land rights of displaced persons due to a conflict.\r\nhttp://www.fao.org/docrep/016/i2801e/i2801e.pdf",
+          "prai_applied": "NO",
+          "prai_applied_comment": "Principle 1 not fulfilled: Existing rights to land and associated natural resources are recognized and respected."
+        },
+        {
+          "id": 806,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "Land rights were not respected",
+          "prai_applied": "NO",
+          "prai_applied_comment": "Land rights were not respected"
+        },
+        {
+          "id": 807,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "Land rights are not being respected. The company had confidential information from the INCODER (land institution by then) which might suggest corruption on the process. Land was bought under accurate values due to life threats.\r\n\r\nhttps://verdadabierta.com/la-mula-la-europa-y-la-otra-alemania/",
+          "prai_applied": "NO",
+          "prai_applied_comment": "Land rights are not being respected. The company had confidential information from the INCODER (land institution by then) which might suggest corruption on the process. Land was bought under accurate values due to life threats.\r\n\r\nhttps://verdadabierta.com/la-mula-la-europa-y-la-otra-alemania/"
+        },
+        {
+          "id": 809,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "It seems that the company bribed some members of the community (some were not even members of the community) to obtain the permits for the extraction of the minerals. The community is in danger of displacement and suffered from a bombing by the air force in 2009.",
+          "prai_applied": "NO",
+          "prai_applied_comment": "It seems that the company bribed some members of the community (some were not even members of the community) to obtain the permits for the extraction of the minerals. The community is in danger of displacement and suffered from a bombing by the air force in 2009."
+        },
+        {
+          "id": 3107,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "It is clear the the company used a legal artifact to circumvent Colombian legislation. It might not be again Colombian legislation, but it is certain that the company is currently using land that was explicitly intended for smallholder use. Additionally, if the holdings belonged at some point to paramilitaries, that means that the previous owners might have suffered from threats to sell their land or they were bought with money from extortion or drug trafficking.",
+          "prai_applied": "NO",
+          "prai_applied_comment": "It is clear the the company used a legal artifact to circumvent Colombian legislation. It might not be again Colombian legislation, but it is certain that the company is currently using land that was explicitly intended for smallholder use. Additionally, if the holdings belonged at some point to paramilitaries, that means that the previous owners might have suffered from threats to sell their land or they were bought with money from extortion or drug trafficking."
+        },
+        {
+          "id": 3110,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "The project has not respected previous land rights. Although the company is not legally the owner of the land, it has been working on territories that were transferred under certainly fraudulent manners. The government was checking if the company was accumulating land irregularly, something that is in violation of law 160 of 1994.\r\n\r\nSee source 26",
+          "prai_applied": "NO",
+          "prai_applied_comment": "Although it is not mandatory for the company, as was stated by the Ministry of Interior of Colombia, the project is affecting indigenous communities which was not previously consulted. They are degrading the environment and possibly causing diseases to local inhabitants."
+        },
+        {
+          "id": 3121,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "The land purchases of the company entail 19 properties that were previously allocated under a land reform contract. It is now allowed to accumulate those lands in an area larger than 67 has. Additionally, some of the acquired properties had been illegally expropriated by the land authorities and allocated to people linked to paramilitary groups.\r\n\r\nSource 12",
+          "prai_applied": "NO",
+          "prai_applied_comment": "It seems that the company was involved in the corruption process in Brazil known as Lava Jato. Since 2014 the acquired land had been unused."
+        },
+        {
+          "id": 3891,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "The project is held in an area of high land informality and really close to indigenous communities. The form how the company got access to the land might be considered by some as illegal. Nevertheless, the Colombian government let the company go ahead with the transaction.",
+          "prai_applied": "NO",
+          "prai_applied_comment": "Principle 4 was not accomplished. Principle 5 is also ignored: not respecting the rule of law."
+        },
+        {
+          "id": 801,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "It seems that some of the properties purchased by Bioagroindustrial de Colombia were bought to peasants that had left their plots and the transfers were done without their knowledge. It seems that there was corruption involved by some members of the land institutions of Colombia in the state of Norte de Santander.",
+          "prai_applied": "NO",
+          "prai_applied_comment": "It was proven by the government that Bioagroindustrial de Colombia established palm oil plantations without the required permissions. Additionally, it had affected several water sources and deforested."
+        },
+        {
+          "id": 7390,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7513,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7514,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7526,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7531,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7535,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7536,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7541,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7546,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7551,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 3945,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "Monica group, from Brazil, created companies \"on the paper\" to circumvent Colombian legislation on land acquisitions, which for some might be an illegal step, at least unethical. The Superintendencia de Sociedades, a Colombian financial authority fined them because they illegally applied for several subsidies when they should have applied just for one. Additionally, it seems that the land they had acquired was involved in some cases of corruption during the previous transactions. Some of the owners had to flee the land due to the conflict and their properties were transferred without their knowledge. This means that the formality on the land rights is quite questionable, which is against the VGGT",
+          "prai_applied": "NO",
+          "prai_applied_comment": "Monica group, from Brazil, created companies \"on the paper\" to circumvent Colombian legislation on land acquisitions, which for some might be an illegal step, at least unethical. The Superintendencia de Sociedades, a Colombian financial authority fined them because they illegally applied for several subsidies when they should have applied just for one. Additionally, it seems that the land they had acquired was involved in some cases of corruption in the previous transactions. Some of the owners had to flee the land due to the conflict and their properties were transferred without their knowledge. This means that the formality on the land rights is quite questionable, which is against the PRAI"
+        },
+        {
+          "id": 7683,
+          "country": {
+            "name": "Nepal",
+            "code_alpha3": "NPL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7911,
+          "country": {
+            "name": "Senegal",
+            "code_alpha3": "SEN"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "",
+          "prai_applied": "NO",
+          "prai_applied_comment": ""
+        },
+        {
+          "id": 7872,
+          "country": {
+            "name": "Bangladesh",
+            "code_alpha3": "BGD"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "In Bangladesh, in a project on land this voluntary guidelines no application unless the project is funded by UN agencies, ADB or any noted international financial institutions.",
+          "prai_applied": "NO",
+          "prai_applied_comment": "No available data. Generally it has no application in Bangladesh. Even government funded projects, it has no application recorded so far."
+        },
+        {
+          "id": 1071,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "YES",
+          "vggt_applied_comment": "It is possible to infer from the ethical guidelines of the company that it is aware of the relevance of land tenure. It is impossible to check if they are indeed complying with them.\r\n\r\nSource:\r\n\r\nhttps://www.rspo.org/acop/2017/oleoflores-s-a-s/P-Policies-to-PNC-ethicalconducthr.pdf",
+          "prai_applied": "YES",
+          "prai_applied_comment": "It seems that the company is aware of the principles for responsible agricultural investments, it is not possible to identify if there is a third party checking on them or if they are indeed fulfilling all of the principles."
+        },
+        {
+          "id": 1073,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "Both companies seem to have ethical, social, environmental, human rights guidelines, nevertheless both are involved on legal processes related to land titles, and displacement.",
+          "prai_applied": "NO",
+          "prai_applied_comment": "Both companies seem to have ethical, social, environmental, human rights guidelines, nevertheless both are involved on legal processes related to land titles, and displacement."
+        },
+        {
+          "id": 1076,
+          "country": {
+            "name": "Colombia",
+            "code_alpha3": "COL"
+          },
+          "vggt_applied": "NO",
+          "vggt_applied_comment": "It should be stated that there are some concerns on irregular accumulation of previously state land, which is prohibited by Law 160 of 1994 and which attempts to reduce rural poverty by allocating land to landless peasants. Additionally, there are some concerns by labor unions, which argue that the company is promoting the creation of parallel labor unions to weaken the existing ones and transfer their members to their own labor unions. The last ones are supposed to support the interests of the company.",
+          "prai_applied": "NO",
+          "prai_applied_comment": "It is following the Globally Reporting Initiative (GRI 4)."
+        }
+      ]
+    }
+  }
