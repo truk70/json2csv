@@ -1,4 +1,4 @@
-id,country|name,country|code_alpha3,vggt_applied,vggt_applied_comment,prai_applied,prai_applied_comment
+id,country.name,country.code_alpha3,vggt_applied,vggt_applied_comment,prai_applied,prai_applied_comment
 802,Colombia,COL,NO,There is presence of land conflicts in the area and no clear land rights,NO,There is presence of land conflicts in the area and no clear land rights
 803,Colombia,COL,NO,"Apart 25.2 is not fulfilled: respecting the land rights of displaced persons due to a conflict.
 http://www.fao.org/docrep/016/i2801e/i2801e.pdf",NO,Principle 1 not fulfilled: Existing rights to land and associated natural resources are recognized and respected.
