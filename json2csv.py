@@ -35,7 +35,7 @@ def dict_generator(inlist):
         myval = item.pop()
         myval = myval
         if len(item)>1:
-            mykey = "|".join(item)
+            mykey = ".".join(item)
         else:
             mykey=item[0]
         dict_out[mykey]=str(myval).strip()
