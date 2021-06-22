@@ -1,0 +1,17 @@
+id,country.name,country.code_alpha3,contract_size.area,contract_size.date,contract_size.current,production_size.area,production_size.date,production_size.current,intention_of_investment.choices,intention_of_investment.current,nature_of_deal,negotiation_status.date,negotiation_status.choice,negotiation_status.current,top_investors.id,top_investors.name
+4594,Ukraine,UKR,3000.0,2001,True,None,AGRICULTURE_UNSPECIFIED,True,LEASE,2001,CONTRACT_SIGNED,True,3519,David D Sweere and Sons International Ltd
+4591,Ukraine,UKR,8000.0,2013,True,None,AGRICULTURE_UNSPECIFIED,True,None,CONTRACT_SIGNED,True,3515,Barnstädt e.G.
+4620,Ukraine,UKR,82500.0,2016,True,81000.0,2014,True,NON_FOOD_AGRICULTURE,True,LEASE,2007,CONTRACT_SIGNED,True,3545,Nibulon
+4610,Ukraine,UKR,120000.0,True,151000.0,2016,True,AGRICULTURE_UNSPECIFIED,True,LEASE,CONTRACT_SIGNED,True,38647,Agroton Public Limited
+1026,Ukraine,UKR,34000.0,2014,True,32000.0,2014,True,FOOD_CROPS,True,LEASE,2006,CONTRACT_SIGNED,True,4979,Almarai
+5724,Ukraine,UKR,4600.0,2017,True,None,LIVESTOCK,True,LEASE,2017,CONTRACT_SIGNED,True,42382,Fairfax Financial Holdings LTD
+5835,Ukraine,UKR,4901.0,2012,True,None,FOOD_CROPS,True,LEASE,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5837,Ukraine,UKR,3500.0,2012,True,None,FOOD_CROPS,True,LEASE,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5836,Ukraine,UKR,4400.0,2012,True,None,FOOD_CROPS,True,LEASE,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5737,Ukraine,UKR,3100.0,2012,True,None,LIVESTOCK,True,LEASE,2017,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5830,Ukraine,UKR,2500.0,2012,True,None,FOOD_CROPS,True,LEASE,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5828,Ukraine,UKR,3900.0,2012,True,None,FOOD_CROPS,True,LEASE,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5827,Ukraine,UKR,2500.0,2012,True,None,FOOD_CROPS,True,LEASE,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5838,Ukraine,UKR,6200.0,2012,True,None,FOOD_CROPS,True,LEASE,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5730,Ukraine,UKR,2100.0,2012,True,None,LIVESTOCK,True,LEASE,2012,CONTRACT_SIGNED,True,4779,MHP S.E.
+5864,Ukraine,UKR,29300.0,2011,True,None,NON_FOOD_AGRICULTURE,True,LEASE,2011,CONTRACT_SIGNED,True,908,Kernel Holding S.A.

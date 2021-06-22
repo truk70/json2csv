@@ -1,0 +1,12 @@
+id,country.name,country.code_alpha3,contract_size.area,contract_size.date,contract_size.current,production_size.area,production_size.date,production_size.current,deal_size,intention_of_investment.choices,intention_of_investment.current,nature_of_deal,negotiation_status.date,negotiation_status.choice,negotiation_status.current,top_investors.id,top_investors.name
+4620,Ukraine,UKR,82500,2016,True,81000,2014,True,82500,NON_FOOD_AGRICULTURE,True,LEASE,2007,CONTRACT_SIGNED,True,3545,Nibulon
+4610,Ukraine,UKR,120000,,True,151000,2016,True,120000,AGRICULTURE_UNSPECIFIED,True,LEASE,,CONTRACT_SIGNED,True,38647,Agroton Public Limited
+5730,Ukraine,UKR,2100,2012,True,,,,2100,LIVESTOCK,True,LEASE,2012,CONTRACT_SIGNED,True,4779,MHP S.E.
+5740,Ukraine,UKR,2600,2017,True,,,,2600,NON_FOOD_AGRICULTURE,True,LEASE,2017,CONTRACT_SIGNED,True,908,Kernel Holding S.A.
+5971,Ukraine,UKR,22000,2017,True,,,,22000,NON_FOOD_AGRICULTURE,True,LEASE,2007,CONTRACT_SIGNED,True,4963,Bontrup Holding
+6006,Ukraine,UKR,,,,,,,0,LIVESTOCK,True,LEASE,2011,CONTRACT_SIGNED,True,3520,BZK Grain Alliance AB
+6019,Ukraine,UKR,15000,2018,True,,,,15000,LIVESTOCK,True,LEASE,2018,CONTRACT_SIGNED,True,5021,Wideline Business Limited
+6046,Ukraine,UKR,20700,2012,True,,,,20700,LIVESTOCK,True,LEASE,2017,CONTRACT_SIGNED,True,5033,Agroholdyng 2012 LLC
+6049,Ukraine,UKR,20300,2012,True,,,,20300,LIVESTOCK,True,LEASE,2017,CONTRACT_SIGNED,True,5032,Nova Linia PJSC
+4600,Ukraine,UKR,6100,2012,True,5000,2016,True,6100,NON_FOOD_AGRICULTURE,True,LEASE,2004,CONTRACT_SIGNED,True,3519,David D Sweere and Sons International Ltd
+4616,Ukraine,UKR,11000,2018,True,,,,11000,AGRICULTURE_UNSPECIFIED,True,LEASE,2002,CONTRACT_SIGNED,True,5055,East Capital

@@ -1,0 +1,26 @@
+{
+    deals(sort: "modified_at",
+      filters: [ 
+        {field:"country.code_alpha3",  operation: IN, value: ["UKR"]},
+        {field: "current_intention_of_investment", operation: CONTAINS, value: "FOOD_CROPS"}
+      
+      ]
+    ) {
+      id
+      country{
+        name
+        code_alpha3
+      }
+      contract_size
+      production_size
+      intention_of_investment
+      nature_of_deal
+      negotiation_status
+      top_investors{
+        id
+        name
+      }
+    
+      
+    }
+  }

@@ -1,0 +1,605 @@
+{
+    "data": {
+      "deals": [
+        {
+          "id": 4621,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 136700,
+              "date": "2014",
+              "current": true
+            },
+            {
+              "area": 34000,
+              "date": "2007"
+            }
+          ],
+          "production_size": [
+            {
+              "area": 136700,
+              "date": "2015",
+              "current": true
+            },
+            {
+              "area": 20600,
+              "date": "2007"
+            }
+          ],
+          "deal_size": 136700,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK",
+                "AGRICULTURE_UNSPECIFIED"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "1998",
+              "choice": "CONTRACT_SIGNED"
+            },
+            {
+              "date": "2007",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 3546,
+              "name": "Industrial Milk Company (IMC)"
+            }
+          ]
+        },
+        {
+          "id": 4620,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 2950,
+              "date": "1996"
+            },
+            {
+              "area": 81000,
+              "date": "2014"
+            },
+            {
+              "area": 82500,
+              "date": "2016",
+              "current": true
+            }
+          ],
+          "production_size": [
+            {
+              "area": 2500,
+              "date": "1999"
+            },
+            {
+              "area": 81000,
+              "date": "2014",
+              "current": true
+            }
+          ],
+          "deal_size": 82500,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK",
+                "NON_FOOD_AGRICULTURE"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "1996",
+              "choice": "CONTRACT_SIGNED"
+            },
+            {
+              "date": "2007",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 3545,
+              "name": "Nibulon"
+            }
+          ]
+        },
+        {
+          "id": 4610,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 120000,
+              "current": true
+            }
+          ],
+          "production_size": [
+            {
+              "area": 63000,
+              "date": "2004"
+            },
+            {
+              "area": 134075,
+              "date": "2008"
+            },
+            {
+              "area": 151000,
+              "date": "2016",
+              "current": true
+            }
+          ],
+          "deal_size": 120000,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK",
+                "NON_FOOD_AGRICULTURE",
+                "AGRICULTURE_UNSPECIFIED"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 38647,
+              "name": "Agroton Public Limited"
+            }
+          ]
+        },
+        {
+          "id": 5730,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 2100,
+              "date": "2012",
+              "current": true
+            }
+          ],
+          "production_size": null,
+          "deal_size": 2100,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2012",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 4779,
+              "name": "MHP S.E."
+            }
+          ]
+        },
+        {
+          "id": 5740,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 2600,
+              "date": "2017",
+              "current": true
+            }
+          ],
+          "production_size": null,
+          "deal_size": 2600,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK",
+                "NON_FOOD_AGRICULTURE"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2017",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 908,
+              "name": "Kernel Holding S.A."
+            }
+          ]
+        },
+        {
+          "id": 5971,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 10400,
+              "date": "2012"
+            },
+            {
+              "area": 11000,
+              "date": "2013"
+            },
+            {
+              "area": 18700,
+              "date": "2015"
+            },
+            {
+              "area": 22000,
+              "date": "2017",
+              "current": true
+            }
+          ],
+          "production_size": null,
+          "deal_size": 22000,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK",
+                "NON_FOOD_AGRICULTURE"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2007",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 4963,
+              "name": "Bontrup Holding"
+            }
+          ]
+        },
+        {
+          "id": 6006,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": null,
+          "production_size": null,
+          "deal_size": 0,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2011",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 3520,
+              "name": "BZK Grain Alliance AB"
+            }
+          ]
+        },
+        {
+          "id": 6019,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 15000,
+              "date": "2018",
+              "current": true
+            }
+          ],
+          "production_size": null,
+          "deal_size": 15000,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2018",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 5021,
+              "name": "Wideline Business Limited"
+            }
+          ]
+        },
+        {
+          "id": 6046,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 20700,
+              "date": "2012",
+              "current": true
+            }
+          ],
+          "production_size": null,
+          "deal_size": 20700,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2017",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 5031,
+              "name": "Logistical centre Kalynivka PJSC"
+            },
+            {
+              "id": 5029,
+              "name": "Renvior Trading Limited"
+            },
+            {
+              "id": 5030,
+              "name": "Epicentr-K LLC"
+            },
+            {
+              "id": 5032,
+              "name": "Nova Linia PJSC"
+            },
+            {
+              "id": 5033,
+              "name": "Agroholdyng 2012 LLC"
+            }
+          ]
+        },
+        {
+          "id": 6049,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 20300,
+              "date": "2012",
+              "current": true
+            }
+          ],
+          "production_size": null,
+          "deal_size": 20300,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2017",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 5029,
+              "name": "Renvior Trading Limited"
+            },
+            {
+              "id": 5033,
+              "name": "Agroholdyng 2012 LLC"
+            },
+            {
+              "id": 5031,
+              "name": "Logistical centre Kalynivka PJSC"
+            },
+            {
+              "id": 5030,
+              "name": "Epicentr-K LLC"
+            },
+            {
+              "id": 5032,
+              "name": "Nova Linia PJSC"
+            }
+          ]
+        },
+        {
+          "id": 4600,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 6100,
+              "date": "2012",
+              "current": true
+            }
+          ],
+          "production_size": [
+            {
+              "area": 5686,
+              "date": "2010"
+            },
+            {
+              "area": 5000,
+              "date": "2016",
+              "current": true
+            }
+          ],
+          "deal_size": 6100,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "LIVESTOCK",
+                "NON_FOOD_AGRICULTURE"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2004",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 3519,
+              "name": "David D Sweere and Sons International Ltd"
+            }
+          ]
+        },
+        {
+          "id": 4616,
+          "country": {
+            "name": "Ukraine",
+            "code_alpha3": "UKR"
+          },
+          "contract_size": [
+            {
+              "area": 11000,
+              "date": "2018",
+              "current": true
+            }
+          ],
+          "production_size": null,
+          "deal_size": 11000,
+          "intention_of_investment": [
+            {
+              "choices": [
+                "FOOD_CROPS",
+                "LIVESTOCK",
+                "AGRICULTURE_UNSPECIFIED"
+              ],
+              "current": true
+            }
+          ],
+          "nature_of_deal": [
+            "LEASE"
+          ],
+          "negotiation_status": [
+            {
+              "date": "2002",
+              "choice": "CONTRACT_SIGNED",
+              "current": true
+            }
+          ],
+          "top_investors": [
+            {
+              "id": 5055,
+              "name": "East Capital"
+            }
+          ]
+        }
+      ]
+    }
+  }
